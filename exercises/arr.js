@@ -8,10 +8,8 @@
 
 // Your code :
 
-const arr  = true;
-const arr0 = 4;
-const arr1 = '2'
-console.log(arr.length(2))
+const arr  =[4, '2'];
+
 
 //* Begin of tests
 const assert = require('assert')

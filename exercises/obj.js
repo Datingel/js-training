@@ -9,6 +9,12 @@
 
 // Your code :
 
+const obj = 'object';
+const obj.str = 'string';
+const obj.num = 42;
+const obj.bool = false;
+const obj.undf = undefined;
+
 //* Begin of tests
 const assert = require('assert')
 
