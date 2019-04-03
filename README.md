@@ -6,7 +6,7 @@ install globaly node on your computer
 
 ```sh
 # download your code locally
-git clone https://github.com/GITHUB_LOGIN/js-training.git
+git clone https://github.com/datingel/js-training.git
 # don't forget to remplace GITHUB_LOGIN by your github login
 
 # change working directory to the newly cloned repository
@@ -55,7 +55,7 @@ vim primitives.js
 # I can not be held responsable if you use anything else.
 ```
 
-![where-to-code](https://github.com/nan-academy/js-training/blob/master/img/where-to-code.png)
+![where-to-code](https://github.com/datingel/js-training/blob/master/img/where-to-code.png)
 
 ## Get Help !
 We maintain an example based code documentation
