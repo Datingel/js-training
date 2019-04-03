@@ -29,3 +29,4 @@ assert.strictEqual(bool, false)
 assert.strictEqual(typeof undef, 'undefined')
 assert.strictEqual(undef, undefined)
 // End of tests */
+.
